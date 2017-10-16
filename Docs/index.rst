@@ -18,8 +18,8 @@ A comprehensive description of the model is available in the 2017 JRC technical 
  
 Downloading Dispa-SET
 ---------------------
-The public version of Dispa-SET can be downloaded from its github repository (using the Clone or Download button on the right side of the screen):
-https://github.com/squoilin/Dispa-SET
+The public version of Dispa-SET can be downloaded in the :ref:`releases` section or from its github repository (using the Clone or Download button on the right side of the screen):
+https://github.com/energy-modelling-toolkit/Dispa-SET
  
 Documentation
 -------------
@@ -28,11 +28,11 @@ http://www.dispaset.eu/latest/index.html
  
 Main contributors:
 
-* Sylvain Quoilin (Main Developper) 
+* Sylvain Quoilin (University of Liège, Belgium)) 
 
-* Konstantinos Kavvadias  
+* Konstantinos Kavvadias  (Joint Research Centre, EU Commission)
 
-* Andreas Zucker 
+* Andreas Zucker (Joint Research Centre, EU Commission)
 
 
 Contents
@@ -48,6 +48,7 @@ Contents
    data
    developers
    DispaSET
+   releases
 
 
 Indices and tables
